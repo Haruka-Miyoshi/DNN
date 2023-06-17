@@ -1,2 +1,1 @@
-# DNN
- Deep Neural Network Python実装
+### **Deep Neural Network Python実装**
